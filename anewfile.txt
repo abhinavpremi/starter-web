@@ -1,1 +1,2 @@
 how to use a new file
+add a stash to a branch
